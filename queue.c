@@ -1,7 +1,3 @@
-/**
- * Terrible Threads Lab
- * CS 241 - Spring 2016
- */
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
