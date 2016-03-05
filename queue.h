@@ -1,8 +1,3 @@
-/**
- * Terrible Threads Lab
- * CS 241 - Spring 2016
- */
-// Changes to this file will be ignored when your project is graded
 
 typedef struct queue_node_t {
 
